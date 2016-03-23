@@ -28,6 +28,9 @@ foreach (var facet in r.FacetFields["category"]) {
 }
 ```
 
+This is a test branch
+
+This is a test in another branch
 ### Date facets
 Date facet queries create facets from date ranges. Sample code:
 
