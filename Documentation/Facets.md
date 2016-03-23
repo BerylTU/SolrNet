@@ -53,6 +53,8 @@ foreach (KeyValuePair<DateTime, int> dr in dateFacetResult.DateResults) {
 }
 ```
 
+
+Futher testing of abilities of git
 ### Arbitrary facet queries
 Arbitrary facet queries are handled by the `SolrFacetQuery` class. Results are available through the `FacetQueries` property.
 
